@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<steps>
+    <step number="1">
+        <name>Миша</name>
+        <word>минск</word>
+    </step>
+    <step number="2">
+        <name>Дима</name>
+        <word>киев</word>
+    </step>
+    <step number="3">
+        <name>Миша</name>
+        <word>владивосток</word>
+    </step>
+    <step number="4">
+        <name>Дима</name>
+        <word>красноярск</word>
+    </step>
+    <step number="5">
+        <name>Миша</name>
+        <word>крым</word>
+    </step>
+    <step number="6">
+        <name>Дима</name>
+        <word>махачкала</word>
+    </step>
+    <step number="7">
+        <name>Миша</name>
+        <word>астрахань</word>
+    </step>
+    <step number="8">
+        <name>Дима</name>
+        <word>новосибирск</word>
+    </step>
+    <step number="9">
+        <name>Миша</name>
+        <word>кисловодск</word>
+    </step>
+</steps>
